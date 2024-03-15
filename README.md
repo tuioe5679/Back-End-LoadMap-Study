@@ -1,2 +1,2 @@
 # Back-End-LoadMap-Study
-A space to organize the backend roadmap
+- 백엔드 로드맵 정리 공간입니다 
