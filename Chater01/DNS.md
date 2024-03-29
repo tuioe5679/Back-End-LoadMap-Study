@@ -1,4 +1,4 @@
-## DNS (Domain Name System) 
+## DNS (Domain Name System)
 도메인 네임 시스템 (Domain Name System)은 인터넷에서 도메인 이름을 IP주소로 변환하거나 IP주소를 도메인 이름으로 변환하는 시스템 <br>
 
 사용자가 웹 브라우저에 도메인 이름을 입력하면 DNS에서 해당 도메인 이름을 IP로 변환하여 웹 서버에 연결하여 웹 페이지를 보여주게 됩니다 <br>
